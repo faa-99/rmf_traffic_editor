@@ -47,7 +47,7 @@ repositories:
     type: git
     url: https://github.com/open-rmf/rmf_simulation.git
     version: main
-  rmf/rmf_traffic_editor:
+  faa-99/rmf_traffic_editor:
     type: git
     url: https://github.com/faa-99/rmf_traffic_editor
     version: main
